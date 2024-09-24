@@ -1,11 +1,3 @@
-# CarAuto AI 
-
-
-## Gradio APP Testing 
-[Car Ato AI Demo](https://huggingface.co/spaces/javaidiqbal32/carauto-ai)
-
-
-
 # Car Background Replacement - AI Project
 This project is designed to automate the process of removing car image backgrounds and replacing them with desired backgrounds, enhancing the clarity and visibility of cars intended for selling or purchasing. By ensuring the cars are presented with clean and focused backgrounds, we help sellers create professional and appealing listings that attract buyers.
 
@@ -20,7 +12,8 @@ This project is designed to automate the process of removing car image backgroun
 - User-Friendly Interface: Simple and intuitive interface, accessible for users with no technical background.
 
 ## Gradio App Testing
-You can test the application using the following [Car Ato AI Gradio Demo:](https://huggingface.co/spaces/javaidiqbal32/carauto-ai) 
+You can test the application using the following Gradio demo:
+[Car Ato AI Demo](https://huggingface.co/spaces/javaidiqbal32/carauto-ai) 
 
 ## How to Use
 1. Upload a car image with a background that needs to be removed.
