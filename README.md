@@ -7,21 +7,20 @@
 
 
 # Car Background Replacement - AI Project
-
 This project is designed to automate the process of removing car image backgrounds and replacing them with desired backgrounds, enhancing the clarity and visibility of cars intended for selling or purchasing. By ensuring the cars are presented with clean and focused backgrounds, we help sellers create professional and appealing listings that attract buyers.
 
 ## Project Purpose
-
 - Remove backgrounds from car images and replace them with a user-defined background.
 - Enhance image quality and visibility for car listings in online marketplaces.
 - Simplify the process of creating professional car listing photos for sellers and buyers.
 
 ## Features
-Automated Background Removal: Uses machine learning techniques to detect and remove the background in car images.
-Customizable Background Replacement: Easily replace the removed background with a desired image for a more polished and attractive look.
-User-Friendly Interface: Simple and intuitive interface, accessible for users with no technical background.
-Gradio App Testing
-You can test the application using the following Gradio demo:
+- Automated Background Removal: Uses machine learning techniques to detect and remove the background in car images.
+- Customizable Background Replacement: Easily replace the removed background with a desired image for a more polished and attractive look.
+- User-Friendly Interface: Simple and intuitive interface, accessible for users with no technical background.
+
+## Gradio App Testing
+You can test the application using the following [Car Ato AI Gradio Demo:](https://huggingface.co/spaces/javaidiqbal32/carauto-ai) 
 
 Car Auto AI Demo
 
