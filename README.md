@@ -13,6 +13,7 @@ This project is designed to automate the process of removing car image backgroun
 
 ## Gradio App Testing
 You can test the application using the following Gradio demo:
+
 [Car Ato AI Demo](https://huggingface.co/spaces/javaidiqbal32/carauto-ai) 
 
 ## How to Use
