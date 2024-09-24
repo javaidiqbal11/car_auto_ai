@@ -1,3 +1,4 @@
+# main python file including gradio app
 import cv2
 import numpy as np
 from rembg import remove
