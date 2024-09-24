@@ -22,20 +22,24 @@ This project is designed to automate the process of removing car image backgroun
 ## Gradio App Testing
 You can test the application using the following [Car Ato AI Gradio Demo:](https://huggingface.co/spaces/javaidiqbal32/carauto-ai) 
 
-Car Auto AI Demo
+## How to Use
+1. Upload a car image with a background that needs to be removed.
+2. Select or upload a desired background image to replace the original.
+3. Process the image and download the result, which will display the car with the new background.
 
-How to Use
-Upload a car image with a background that needs to be removed.
-Select or upload a desired background image to replace the original.
-Process the image and download the result, which will display the car with the new background.
-Technologies Used
-Python: Backend development.
-Gradio: For creating the web interface and interactive testing environment.
-Machine Learning Models: Used for background segmentation and image processing.
-Future Enhancements
-Improving the accuracy and speed of background removal.
-Adding more customization options for background replacement.
-Integration with car listing platforms for direct upload.
+## Technologies Used
+**Python:** Backend development.
+**Gradio:** For creating the web interface and interactive testing environment.
+**Machine Learning Models:** Used for background segmentation and image processing.
+**Computer Vision:** Used CV2 libraries to process image data.
+
+## Future Enhancements
+- Improving the accuracy and speed of background removal.
+- Adding more customization options for background replacement.
+- Integration with car listing platforms for direct upload.
+
+
 Feel free to explore the project and contribute!
+
 
 Note: This project is still in the development phase, and any feedback or contributions are highly welcome.
