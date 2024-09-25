@@ -5,6 +5,7 @@ This project is designed to automate the process of removing car image backgroun
 - Remove backgrounds from car images and replace them with a user-defined background.
 - Enhance image quality and visibility for car listings in online marketplaces.
 - Simplify the process of creating professional car listing photos for sellers and buyers.
+- Replace the background with desired image such that showroom image. 
 
 ## Features
 - Automated Background Removal: Uses machine learning techniques to detect and remove the background in car images.
