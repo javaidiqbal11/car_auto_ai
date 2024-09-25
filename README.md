@@ -8,9 +8,9 @@ This project is designed to automate the process of removing car image backgroun
 - Replace the background with desired image such that showroom image. 
 
 ## Features
-- Automated Background Removal: Uses machine learning techniques to detect and remove the background in car images.
-- Customizable Background Replacement: Easily replace the removed background with a desired image for a more polished and attractive look.
-- User-Friendly Interface: Simple and intuitive interface, accessible for users with no technical background.
+**Automated Background Removal:** Uses machine learning techniques to detect and remove the background in car images.
+**Customizable Background Replacement:** Easily replace the removed background with a desired image for a more polished and attractive look.
+**User-Friendly Interface:** Simple and intuitive interface, accessible for users with no technical background.
 
 ## Gradio App Testing
 You can test the application using the following Gradio demo:
