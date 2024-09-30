@@ -23,9 +23,9 @@ You can test the application using the following Gradio demo:
 3. Process the image and download the result, which will display the car with the new background.
 
 ## Technologies Used
-**Python:** Backend development.
-**Gradio:** For creating the web interface and interactive testing environment.
-**Machine Learning Models:** Used for background segmentation and image processing.
+**Python:** Backend development. <br>
+**Gradio:** For creating the web interface and interactive testing environment.<br>
+**Machine Learning Models:** Used for background segmentation and image processing.<br>
 **Computer Vision:** Used CV2 libraries to process image data.
 
 ## Future Enhancements
